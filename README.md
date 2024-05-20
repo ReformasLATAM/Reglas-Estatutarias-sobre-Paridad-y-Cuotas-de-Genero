@@ -1,4 +1,4 @@
-# Reglas Estatutarias sobre Paridad y Cuotas de Genero en los Organos de Direccion Nacionales de los Partidos Politicos Latinoamericanos 
+# Reglas Estatutarias sobre Paridad y Cuotas de Género en los Órganos de Dirección Nacionales de los Partidos Políticos Latinoamericanos 
 
 Bienvenidos/as al repositorio GitHub de la base de datos "Reglas Estatutarias sobre Paridad y Cuotas de Genero en los Organos de Direccion Nacionales de los Partidos Politicos Latinoamericanos" mantenida por integrantes del Observatorio de Reformas Políticas en América Latina.
 
